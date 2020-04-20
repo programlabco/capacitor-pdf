@@ -42,7 +42,7 @@ public class PdfActivity extends AppCompatActivity {
     private static final int READ_EXTERNAL_STORAGE = 2;
     private static final String TAG = "Download Task";
 
-    private String downloadUrl = null, downloadFileName = "elpais_20200415.pdf";
+    private String downloadUrl = null, downloadFileName = "pdfCache.pdf";
     private ArrayList<PdfAnnotations> annotations = new ArrayList<PdfAnnotations>();
     private ProgressDialog progressDialog;
 

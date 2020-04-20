@@ -1,5 +1,5 @@
 import { WebPlugin } from '@capacitor/core';
-import { PdfPluginPlugin } from './definitions';
+import { PdfPluginPlugin, PdfOptions } from './definitions';
 
 export class PdfPluginWeb extends WebPlugin implements PdfPluginPlugin {
   constructor() {
@@ -12,6 +12,11 @@ export class PdfPluginWeb extends WebPlugin implements PdfPluginPlugin {
   async echo(options: { value: string }): Promise<{value: string}> {
     console.log('ECHO', options);
     return options;
+  }
+
+  async viewPdf(value: PdfOptions): Promise<any>{
+    console.log('VIEW_PDF', value);
+    return value;
   }
 }
 

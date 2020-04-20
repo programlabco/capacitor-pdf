@@ -32,7 +32,7 @@ public class PdfRendererBasicViewModel extends AndroidViewModel {
     /**
      * The filename of the PDF.
      */
-    private static final String FILENAME = "elpais_20200415.pdf";
+    private static final String FILENAME = "pdfCache.pdf";
 
     private final MutableLiveData<PageInfo> mPageInfo = new MutableLiveData<>();
     private final MutableLiveData<Bitmap> mPageBitmap = new MutableLiveData<>();
