@@ -1,3 +1,11 @@
 <resources>
     <string name="my_string">Just a simple string</string>
+    <string name="info">Información</string>
+    <string name="intro_message">Archivo descargado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="previous">Anterior</string>
+    <string name="next">Siguiente</string>
+    <string name="app_name_with_index">Pdf (%1$d/%2$d)</string>
 </resources>

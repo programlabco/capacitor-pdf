@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+drawable circle_background
+drawable ic_attachment_black_24dp
+drawable ic_info
+id action_info
+id container
+id frame
+id image
+id next
+id previous
+id vertical
+id webview
+layout activity_navigator
+layout activity_pdf
+layout bridge_layout_main
+layout fragment_pdf_renderer_basic
+menu main
+string app_name_with_index
+string hello_blank_fragment
+string info
+string intro_message
+string my_string
+string next
+string previous
