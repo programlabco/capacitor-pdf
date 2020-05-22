@@ -1,6 +1,6 @@
 {
   "name": "capacitor-pdf",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Pdf plugin for capacitor apps",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",

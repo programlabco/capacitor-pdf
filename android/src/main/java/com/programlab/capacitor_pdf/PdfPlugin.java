@@ -25,10 +25,10 @@ public class PdfPlugin extends Plugin {
         String linkPdf = call.getString("linkPdf");
         JSArray annotations = call.getArray("annotations", new JSArray());
 
-        Intent intent = new Intent(getActivity(), PdfActivity.class);
+        Intent intent = new Intent(this.getBridge().getActivity(), PdfActivity.class);
         intent.putExtra("linkPdf", linkPdf);
         intent.putExtra("annotations", annotations.toString());
-        getActivity().startActivity(intent);
+        this.getBridge().getActivity().startActivity(intent);
         /*JSObject ret = new JSObject();
         ret.put("value", value);*/
         call.success();

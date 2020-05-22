@@ -53,6 +53,28 @@ public class PdfRendererBasicViewModel extends AndroidViewModel {
         this.densityDpi = densityDpi;
     }
 
+
+    public int getIndex() {
+        return index;
+    }
+
+    public void setIndex(int index) {
+        this.index = index;
+    }
+
+    private int index;
+
+
+    public File getFile() {
+        return file;
+    }
+
+    public void setFile(File file) {
+        this.file = file;
+    }
+
+    private File file;
+
     private int densityDpi;
 
     @SuppressWarnings("unused")

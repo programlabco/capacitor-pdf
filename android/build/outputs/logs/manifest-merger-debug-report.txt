@@ -1,59 +1,63 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-12:12
-INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-12:12
-INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-12:12
-INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-12:12
-INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-12:12
-INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-12:12
-INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-12:12
+ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-16:12
 	package
-		ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:3:5-43
-		INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+		ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
-		ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-12:12
-		INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+		ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-16:12
+		INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+	xsi:schemaLocation
+		ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:5:5-69
 	android:versionCode
-		INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
-		ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-12:12
-		INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+		ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:1-16:12
+		INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:2:11-69
+	xmlns:xsi
+		ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:4:5-58
 uses-permission#android.permission.INTERNET
-ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:4:5-66
+ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:7:5-67
 	android:name
-		ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:7:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:5:5-80
+ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:5:22-78
+		ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:8:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:6:5-79
+ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:9:5-80
 	android:name
-		ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:6:22-77
+		ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:9:22-77
 application
-ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:7:5-10:19
+ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:11:5-14:19
 activity#com.programlab.capacitor_pdf.NavigatorActivity
-ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:8:9-64
+ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:12:9-55
 	android:name
-		ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:8:19-52
+		ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:12:19-52
 activity#com.programlab.capacitor_pdf.PdfActivity
-ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:9:9-49
+ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:13:9-49
 	android:name
-		ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:9:19-46
+		ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:13:19-46
 uses-sdk
-INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
-INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
-INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
-INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
-		ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+		ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
-		ADDED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
-		INJECTED from /Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+		ADDED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml

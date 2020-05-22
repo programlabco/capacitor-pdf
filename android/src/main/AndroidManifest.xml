@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.programlab.capacitor_pdf">
-    <uses-permission android:name="android.permission.INTERNET"/>
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    package="com.programlab.capacitor_pdf"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://schemas.android.com/apk/res/android ">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application>
-        <activity android:name=".NavigatorActivity"></activity>
+        <activity android:name=".NavigatorActivity" />
         <activity android:name=".PdfActivity" />
     </application>
 

@@ -1,33 +1,35 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.programlab.capacitor_pdf"
-4    android:versionCode="1"
-5    android:versionName="1.0" >
-6
-7    <uses-sdk
-8        android:minSdkVersion="21"
-8-->/Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
-9        android:targetSdkVersion="29" />
-9-->/Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
-10
-11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:4:5-66
-11-->/Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:4:22-64
-12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-12-->/Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:5:5-80
-12-->/Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:5:22-78
-13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-13-->/Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:6:5-79
-13-->/Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:6:22-77
-14
-15    <application>
-15-->/Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:7:5-10:19
-16        <activity android:name="com.programlab.capacitor_pdf.NavigatorActivity" />
-16-->/Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:8:9-64
-16-->/Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:8:19-52
-17        <activity android:name="com.programlab.capacitor_pdf.PdfActivity" />
-17-->/Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:9:9-49
-17-->/Users/usuario/Documents/proyectos/programlab/capacitor/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:9:19-46
-18    </application>
-19
-20</manifest>
+3    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+4    package="com.programlab.capacitor_pdf"
+5    android:versionCode="1"
+6    android:versionName="1.0"
+7    xsi:schemaLocation="http://schemas.android.com/apk/res/android " >
+8
+9    <uses-sdk
+10        android:minSdkVersion="21"
+10-->/Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+11        android:targetSdkVersion="29" />
+11-->/Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml
+12
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:7:5-67
+13-->/Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:7:22-64
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:8:5-81
+14-->/Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:9:5-80
+15-->/Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:9:22-77
+16
+17    <application>
+17-->/Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:11:5-14:19
+18        <activity android:name="com.programlab.capacitor_pdf.NavigatorActivity" />
+18-->/Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:12:9-55
+18-->/Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:12:19-52
+19        <activity android:name="com.programlab.capacitor_pdf.PdfActivity" />
+19-->/Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:13:9-49
+19-->/Users/usuario/Documents/proyectos/jhon/capacitor-plugins/pruebas/node_modules/capacitor-pdf/android/src/main/AndroidManifest.xml:13:19-46
+20    </application>
+21
+22</manifest>
