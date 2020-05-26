@@ -7,7 +7,7 @@
     s.homepage = 'https://github.com/programlabco/capacitor-pdf'
     s.author = 'ProgramLab'
     s.source = { :git => 'https://github.com/programlabco/capacitor-pdf', :tag => s.version.to_s }
-    s.source_files = 'ios/Plugin/**/*.{swift,h,m,c,cc,mm,cpp}'
+    s.source_files = 'ios/Plugin/**/*.{swift,h,m,c,cc,mm,cpp,storyboard}'
     s.ios.deployment_target  = '11.0'
     s.dependency 'Capacitor'
   end
