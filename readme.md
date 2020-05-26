@@ -80,6 +80,6 @@ Pasos para integrar el plugin en android:
 
 ## Integración en ios
 
-Desarrollando en este momento
+Primer version de ios lanzada. Solo esta funcionando el pdf. Ya tenemos soporte para ios!! 🥳🥳🥳🥳🥳
     
 
